@@ -15,6 +15,7 @@ public class RemoveDuplicate {
                 uniqueCount++;
                 i++;
             }
+
             else{
                 System.out.println(2);
                 arr.remove(i);
