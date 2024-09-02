@@ -6,7 +6,7 @@ public class ReverseStringWithSpacesIntact {
 
     public static void main(String[] args) {
         ReverseStringWithSpacesIntact reverseStringWithSpacesIntact = new ReverseStringWithSpacesIntact();
-        System.out.println(reverseStringWithSpacesIntact.reverseWithSpacesIntact("Help others"));;
+        System.out.println(reverseStringWithSpacesIntact.reverseWithSpacesIntact("Help others"));
     }
 
     String reverseWithSpacesIntact(String s)
